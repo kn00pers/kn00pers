@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kNoopers</h1>
-<h3 align="center">Seeking Software developer | Swift</h3>
+<h3 align="center">Seeking Software developer role | Swift, Flutter</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
