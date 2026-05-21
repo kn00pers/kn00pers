@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm kNoopers
 
-### 🚀 Seeking Software Developer Role | Flutter / PHP Developer
+### 🚀 Seeking Software Developer Role
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/patryk-knopp-4b3171169)
 
